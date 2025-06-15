@@ -1,41 +1,7 @@
-<!-- <h1 align="left">👋 Hi there, I'm Agus Raju Thaliyan!</h1> -->
 
-<!-- <div align="center">
-  <blockquote style="font-size: 1.25em; font-style: italic; color: #555; max-width: 600px; border-left: 4px solid #007bff; padding-left: 16px; margin: 20px auto;">
-    "Turning data into insights, one algorithm at a time."
-  </blockquote>
-  
-  <img src="https://img.shields.io/badge/-Turning%20data%20into%20insights%2C%20one%20algorithm%20at%20a%20time.-blue?style=for-the-badge&labelColor=black" alt="Quote Badge">
-</div> -->
 
 ![](Resources/banner.png)
 
-<!-- <div align="center">
- <table>
-  <tr>
-    <td align="center" valign="top">
-      <img src="https://img.icons8.com/color/48/000000/graduation-cap.png" width="40" height="40" alt="Education"/> <br/>
-      <b>M.Sc. Computer Science</b> <br/>
-      (Data Analytics)
-    </td>
-    <td align="center" valign="top">
-      <img src="https://img.icons8.com/color/48/000000/internship.png" width="40" height="40" alt="Experience"/> <br/>
-      <b>Ex-Business Development Intern</b> <br/>
-      <a href="https://www.cppr.in/" target="_blank">@ CPPR</a>
-    </td>
-    <td align="center" valign="top">
-      <img src="https://img.icons8.com/color/48/000000/combo-chart.png" width="40" height="40" alt="Interests"/> <br/>
-      <b>Passionate About</b> <br/>
-      Data Analysis,<br/>Machine Learning,<br/>& Visualization
-    </td>
-    <td align="center" valign="top">
-      <img src="https://img.icons8.com/color/48/000000/google-logo.png" width="40" height="40" alt="Certification"/> <br/>
-      <b>Google Certified Data Analyst</b> <br/>
-      <a href="https://www.coursera.org/account/accomplishments/specialization/P27HT7MPS05N" target="_blank">View Certificate</a>
-    </td>
-  </tr>
- </table>
-</div> -->
 
 ## 🛠️ **Tech Stack**
 
@@ -59,7 +25,6 @@
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
   <img src="https://img.shields.io/badge/Statistics-00897B?style=for-the-badge&logo=statistics&logoColor=white" alt="Statistics" />
-  <img src="https://img.shields.io/badge/Statsmodels-512DA8?style=for-the-badge&logo=statsmodels&logoColor=white" alt="Statsmodels" />
 </p>
 
 
