@@ -1,0 +1,5 @@
+.responsive-image {
+    max-width: 100%; /* Images scale down to fit the cell width */
+    height: auto;  /* Maintains aspect ratio */
+    object-fit: cover;  /* Scales image to fill container while preserving aspect ratio */
+  }
