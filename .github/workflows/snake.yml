@@ -9,17 +9,24 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate GitHub Snake
+      # Step 1: Checkout your GitHub repo
+      - name: Checkout GitHub repo
+        uses: actions/checkout@v3
+
+      # Step 2: Generate the Snake animation
+      - name: Generate GitHub Snake SVG
         uses: Platane/snk@v3
         with:
           github_user_name: thomas271001
           outputs: |
             ./output/github-contribution-grid-snake.svg
             ./output/github-contribution-grid-snake-dark.svg
-      - name: Push to GitHub
+
+      # Step 3: Commit and push the SVGs
+      - name: Commit and Push the Snake SVG
         uses: EndBug/add-and-commit@v9
         with:
           author_name: github-actions
           author_email: github-actions@github.com
-          message: "🐍 Update Snake animation"
+          message: "🐍 Update GitHub contribution grid snake"
           add: "output/*.svg"
