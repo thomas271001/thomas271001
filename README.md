@@ -1,6 +1,5 @@
 
 
-![](Resources/banner.png)
 ![](Resources/gif.gif)
 
 
