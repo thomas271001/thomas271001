@@ -6,10 +6,11 @@
 </h1>
 
 
-## 🐍 My GitHub Contribution Snake
+<div align="left">
+  <h2>🐍 My Contributions 🐍</h2>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/thomas271001/thomas271001/output/github-contribution-grid-snake.svg" />
+</div>
 
-![GitHub Snake Light](https://raw.githubusercontent.com/thomas271001/thomas271001/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/thomas271001/thomas271001/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 
 ## 🛠️ **Tech Stack**
