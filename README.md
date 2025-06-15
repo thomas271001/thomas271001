@@ -1,10 +1,10 @@
 
 
 ![](Resources/gif.gif)
-<br>
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=F7941D&center=true&vCenter=true&width=435&lines=👋+Hello%2C+My+Name+is+Thomas!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=👋+Hello%2C+My+Name+is+Thomas!;🧠+I'm+a+Data+Analyst+%7C+AI+Enthusiast;📊+Python+%7C+Power+BI+%7C+SQL+%7C+Machine+Learning;📈+Turning+data+into+decisions!" alt="Typing SVG" />
 </h1>
+
 
 
 ## 🛠️ **Tech Stack**
