@@ -1,6 +1,9 @@
 
 
 ![](Resources/gif.gif)
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=F7941D&center=true&vCenter=true&width=435&lines=👋+Hello%2C+My+Name+is+Thomas!" alt="Typing SVG" />
+</h1>
 
 
 ## 🛠️ **Tech Stack**
