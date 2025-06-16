@@ -18,25 +18,32 @@
 ## 🛠️ **Tech Stack**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="SQL" /> 
-  <img src="https://img.shields.io/badge/Data%20Analysis-4CAF50?style=for-the-badge&logo=tableau&logoColor=white" alt="Data Analysis" />
-  <img src="https://img.shields.io/badge/C%20Programming-FFC107?style=for-the-badge&logo=c&logoColor=white" alt="C Programming" />
-  <img src="https://img.shields.io/badge/Figma-C5CAE9?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Power%20BI-FFEB3B?style=for-the-badge&logo=power-bi&logoColor=white" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Excel-007BFF?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/Canva-E91E63?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
-  <img src="https://img.shields.io/badge/Git-2C3E55?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R Programming" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" /> 
-  <img src="https://img.shields.io/badge/scikit%20learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" /> 
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />  
-  <img src="https://img.shields.io/badge/Seaborn-008B8B?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn" />  
-  <img src="https://img.shields.io/badge/Framer-7C3AED?style=for-the-badge&logo=framer&logoColor=white" alt="Framer" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Statistics-00897B?style=for-the-badge&logo=statistics&logoColor=white" alt="Statistics" />
+      <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="SQL" />
+      <img src="https://img.shields.io/badge/Data%20Analysis-4CAF50?style=for-the-badge&logo=tableau&logoColor=white" alt="Data Analysis" />
+      <img src="https://img.shields.io/badge/C%20Programming-FFC107?style=for-the-badge&logo=c&logoColor=white" alt="C Programming" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+      <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+      <img src="https://img.shields.io/badge/Power%20BI-FFEB3B?style=for-the-badge&logo=power-bi&logoColor=white" alt="Power BI" />
+      <img src="https://img.shields.io/badge/Excel-007BFF?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+      <img src="https://img.shields.io/badge/Canva-E91E63?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+      <img src="https://img.shields.io/badge/Git-2C3E55?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R Programming" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+      <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+      <img src="https://img.shields.io/badge/scikit%20learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
+      <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+      <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+      <img src="https://img.shields.io/badge/Azure%20AI-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure AI" />
+      <img src="https://img.shields.io/badge/Statistics-00897B?style=for-the-badge&logo=statistics&logoColor=white" alt="Statistics" />
 </p>
 
 
