@@ -18,14 +18,11 @@ jobs:
         with:
           github_user_name: thomas271001
           outputs: |
-                  dist/github-contribution-grid-snake.svg
-                  dist/github-contribution-grid-snake-dark.svg
-          snake_color: "#39FF14"
-          background_color: "#0d1117"
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg
           color_snake: "#39FF14"
-          color_dot: "#2f81f7,#1f6feb,#1158c7,#0d419d,#0c2d6b"
-            
-   
+          background_color: "#0d1117"
+          color_dots: "#161b22,#0d1117,#30363d,#21262d,#c9d1d9"
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
@@ -34,7 +31,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-     
-    
-
