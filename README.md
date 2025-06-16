@@ -8,13 +8,8 @@
 
 ## 🐍 My GitHub Contribution Snake
 
-<p align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thomas271001/thomas271001/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thomas271001/thomas271001/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/thomas271001/thomas271001/output/github-contribution-grid-snake.svg" />
-</picture>
-</p>
+![Snake animation](https://github.com/thomas271001/thomas271001/blob/output/snake.svg)
+
 
 
 
